@@ -231,3 +231,18 @@ main {
         margin: 10vh auto;
     }
 }
+
+.alterar {
+    margin: 20px;
+}
+
+.alterar:hover {
+    border: 3px solid black;
+}
+
+.botoes {
+   position: relative;
+   top: 100%;
+   display: block;
+   z-index: 100000;
+}
