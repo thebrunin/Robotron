@@ -234,10 +234,12 @@ main {
 
 .alterar {
     margin: 20px;
+    padding: 0;
 }
 
 .alterar:hover {
     border: 3px solid black;
+    padding: 0;
 }
 
 .botoes {
